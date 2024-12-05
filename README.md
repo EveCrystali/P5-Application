@@ -1,3 +1,32 @@
+# 🚗 Le projet - ExpressVoiture
+
+## ✨ Fonctionnalités principales :
+### Vue Administrateur :
+- Gestion complète de l’inventaire de voitures.
+- Édition des détails de chaque voiture.
+- Suivi des voitures vendues ou indisponibles.
+### Vue Client :
+- Visualisation des voitures disponibles.
+- Consultation des détails d'une voiture spécifique.
+
+## 🌟 Contexte du projet :
+**ExpressVoiture** est une plateforme web de gestion de la vente de voitures, conçue pour être gérée de manière autonome par un administrateur.
+
+## 🎯 Objectifs d'implémentation :
+### 🔧 Pour les administrateurs :
+- Ajouter et modifier des voitures dans l’inventaire avec des photos, des caractéristiques, et des descriptions.
+- Marquer les voitures comme vendues ou indisponibles.
+- Gérer l’inventaire de manière autonome.
+
+### 🛒 Pour les clients :
+- Consulter les voitures disponibles.
+- Visualiser les détails de chaque voiture.
+
+### 💡 Comprendre pourquoi choisir .NET/MVC :
+- **Sécurité robuste** : gestion des utilisateurs, validation d'entrée, authentification sécurisée.
+- **Architecture MVC** : séparation des responsabilités entre Modèle, Vue, et Contrôleur.
+- **Performances optimales** grâce à .NET et des mises à jour régulières.
+
 # ExpressVoiture - Instructions d'installation
 
 ## Prérequis
